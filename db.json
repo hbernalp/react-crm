@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Harrisson Bernal",
+      "empresa": "HarryDev",
+      "email": "hbernal@harrydev.com.co",
+      "telefono": "3168294878",
+      "notas": "ninguna nota por el momento",
+      "id": 1
+    },
+    {
+      "nombre": "Olga Liliana Prieto",
+      "empresa": "Indra",
+      "email": "oprieto@indra.com",
+      "telefono": "3183754361",
+      "notas": "Scrum master",
+      "id": 2
+    },
+    {
+      "nombre": "Cristian David Bernal Prieto",
+      "empresa": "CrisPhoto",
+      "email": "cristiandavidbernalprieto@gmail.com",
+      "telefono": "3112345",
+      "notas": "Diseñador y Fotografo",
+      "id": 3
+    },
+    {
+      "nombre": "Laura Valentina Bernal Prieto",
+      "empresa": "Colegio la Doctora",
+      "email": "lauravalentinabernalprieto@gmail.com",
+      "telefono": "234234234",
+      "notas": "Laura aun es estudiante",
+      "id": 4
+    },
+    {
+      "nombre": "Martha Pedraza",
+      "empresa": "Familiar",
+      "email": "martica@gmail.com",
+      "telefono": "3002095169",
+      "notas": "Trabaja en el hogar",
+      "id": 5
+    },
+    {
+      "nombre": "Manuela Castro",
+      "empresa": "La doctora",
+      "email": "manuela@gmail.com",
+      "telefono": "0797676",
+      "notas": "Es estudiante",
+      "id": 6
+    }
+  ]
+}
